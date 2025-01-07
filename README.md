@@ -10,8 +10,8 @@ This project explores Citi Bike data to provide insights into user behavior and 
 ---
 ### File Explanations
 
-CitiBikeAnalysis contains the full project intergrated everyone's contributions
-CitiBikeMembershipInsights contains some of the starter code used to derive the membership insights, as well as some unused code that primairly contains analysis of New York's CitiBike data. 
+- CitiBikeAnalysis contains the full project intergrated everyone's contributions. 
+- CitiBikeMembershipInsights contains some of the starter code used to derive the membership insights, as well as some unused code that primairly contains analysis of New York's CitiBike data. 
 
 ---
 
