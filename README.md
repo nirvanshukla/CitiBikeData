@@ -8,6 +8,12 @@
 This project explores Citi Bike data to provide insights into user behavior and enhance urban mobility in New York City. By analyzing spatial and temporal variables, the study offers recommendations for improving transportation planning and optimizing the bike-sharing system.
 
 ---
+### File Explanations
+
+CitiBikeAnalysis contains the full project intergrated everyone's contributions
+CitiBikeMembershipInsights contains some of the starter code used to derive the membership insights, as well as some unused code that primairly contains analysis of New York's CitiBike data. 
+
+---
 
 ### Key Data Features  
 - **Data Fields**: Start/End Time, Station Name, Bike ID, User Information (Gender, Birth Year), Membership Status.  
